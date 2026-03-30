@@ -1,3 +1,11 @@
+# Python/pytest testing artifacts
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.pyo
+
 # Logs
 logs
 *.log
